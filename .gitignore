@@ -1,0 +1,14 @@
+# Automatically created by mypy
+.mypy_cache
+__pycache__
+Yahoo_Finance.csv
+example_input_data
+.vscode
+test.ipynb
+test.csv
+csr_hub.csv
+test_rds_module.py
+Companies_ESG_metrics.egg-info
+CompaniesESGmetrics.egg-info
+dist
+build

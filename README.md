@@ -1,4 +1,4 @@
-Sustainability_Company_Information
+Forbes Companies Sustainability Metrics
 
 This repository is created to build a dataset of Forbes 2021 2000 companies' financial metrics and ESG and CSR metrics. The ESG information has been collected from 5 different publically available data analytics firm. The websites used for ESG metrics are: S&P Global, MSCI, Yahoo Finance, CSR Hub, SustainAnalytics. The website used to collect financial information is Yahoo Finance.
 
