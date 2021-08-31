@@ -1,7 +1,6 @@
 '''
 The subpackage esgscraper contains modules:
-'esgdata', 'scraper', 'csrhub', 'snp_global', 'msci', 'sustainanalytics',\
-'yahoo'
+'scraper', 'csrhub', 'snp_global', 'msci', 'sustainanalytics','yahoo'
 '''
-__all__ = ['esgdata', 'scraper', 'csrhub', 'snp_global', 'msci',
+__all__ = ['scraper', 'csrhub', 'snp_global', 'msci',
            'sustainanalytics', 'yahoo']

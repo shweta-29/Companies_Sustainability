@@ -2,6 +2,7 @@
 .mypy_cache
 __pycache__
 Yahoo_Finance.csv
+Webscraping_AICORE.pptx
 example_input_data
 .vscode
 test.ipynb
@@ -12,3 +13,4 @@ Companies_ESG_metrics.egg-info
 CompaniesESGmetrics.egg-info
 dist
 build
+dist
